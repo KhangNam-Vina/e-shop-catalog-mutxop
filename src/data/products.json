@@ -3,12 +3,12 @@
     "id": "1",
     "name": "Miếng mút xốp Melamine 30 cm",
     "images": [
-      "/images/products/mutxop/1/1.jpg",
-      "/images/products/mutxop/1/2.jpg",
-      "/images/products/mutxop/1/3.jpg" 
+      "/images/products/1/1.jpg",
+      "/images/products/1/2.jpg",
+      "/images/products/1/3.jpg"
     ],
     "size": "30x7x3.5cm",
-    "material": "Mút xốp melamine",
+    "material": "mút xốp melamine",
     "colors": ["Trắng"],
     "description": "Mút xốp melamine là sản phẩm vệ sinh dạng mút mềm, nhỏ gọn, dễ sử dụng, hỗ trợ làm sạch nhiều loại bề mặt như kính, inox, nhựa, gốm, gạch men và các vật dụng gia đình.",
     "features": [
@@ -21,54 +21,54 @@
     "id": "2",
     "name": "Mút Xốp Melamine Tetuchan Công Nghệ Nhật Bản | Thanh Dài 30 Cm",
     "images": [ 
-      "/images/products/mutxop/2/1.jpg",
-      "/images/products/mutxop/2/2.jpg",
-      "/images/products/mutxop/2/3.jpg"
+      "/images/products/2/1.jpg",
+      "/images/products/2/2.jpg",
+      "/images/products/2/3.jpg"
     ],
-    "size": "300 x 65 x 32mmi",
+    "size": "300 x 65 x 32mm",
     "material": "Bọt xốp Melamine",
     "colors": ["Trắng"],
     "description": "Đánh bay những vết bẩn bám lâu ngày chỉ với nước – Mút xốp Melamine 30cm hỗ trợ làm sạch hiệu quả trên nhiều bề mặt, giúp công việc vệ sinh trở nên đơn giản hơn.",
     "features": [
       "Có thể sử dụng với nước, hạn chế nhu cầu sử dụng thêm dung dịch tẩy rửa trong nhiều trường hợp.",
       "Cấu trúc bọt xốp Melamine hỗ trợ làm sạch các vết bẩn bám trên bề mặt.",
-      "Dễ sử dụng, chỉ cần làm ẩm và chà nhẹ lên vị trí có vết bẩn."
+      "Thiết kế thanh dài 30cm giúp thao tác thuận tiện trên những khu vực cần vệ sinh rộng."
     ]
   }, 
   {
     "id": "3",
     "name": "Mút Xốp Melamine Tẩy Rửa Đa Năng",
     "images": [
-      "/images/products/mutxop/3/1.jpg",
-      "/images/products/mutxop/3/2.jpg",
-      "/images/products/mutxop/3/2.jpg"
+      "/images/products/3/1.jpg",
+      "/images/products/3/2.jpg",
+      "/images/products/3/3.jpg"
     ],
     "size": "10.5 × 6 × 3 cm",
     "material": "Mút Melamine",
     "colors": ["Trắng"],
     "description": "Mút xốp Melamine là miếng mút làm sạch nhỏ gọn, hỗ trợ loại bỏ các vết bẩn, vết bám và dấu vết sử dụng trên nhiều bề mặt phù hợp.",
     "features": [
+      "Cách sử dụng đơn giản, phù hợp cho nhu cầu vệ sinh hằng ngày.",
       "Không cần dùng chất tẩy rửa",
-      "Thành phần sản phẩm không chứa hóa chất, an toàn cho da tay",
-      "Thiết kế nhỏ gọn, dễ cầm, thuận tiện khi làm sạch những khu vực có diện tích nhỏ."
+      "Thành phần sản phẩm không chứa hóa chất, an toàn cho da tay "
     ]
   }, 
   {
     "id": "4",
     "name": "Mút Xốp Melamine Tẩy Rửa Đa Năng Bản Lớn 30 × 14 × 4cm | Mút Lau Chùi Melamine",
     "images": [
-      "/images/products/mutxop/4/1.jpg",
-      "/images/products/mutxop/4/2.jpg",
-      "/images/products/mutxop/4/3.jpg"
+      "/images/products/4/1.jpg",
+      "/images/products/4/2.jpg",
+      "/images/products/4/3.jpg"
     ],
-    "size": "142 x 47 x 42 mm | Hộp 10 cái",
-    "material": "Nhựa chống cháy",
+    "size": "30 × 14 × 4cm",
+    "material": "Mút Melamine",
     "colors": ["Trắng"],
-    "description": "Sản phẩm mút tẩy rửa chuyên dụng với cấu trúc xốp siêu nhỏ, hỗ trợ làm sạch các vết bẩn, vết bám và dấu vết sử dụng trên nhiều bề mặt cứng.",
+    "description": "Mút Xốp Melamine bản lớn 30 × 14 × 4cm là sản phẩm mút tẩy rửa chuyên dụng với cấu trúc xốp siêu nhỏ, hỗ trợ làm sạch các vết bẩn, vết bám và dấu vết sử dụng trên nhiều bề mặt cứng. ",
     "features": [
       "Bản lớn, diện tích sử dụng rộng , thuận tiện khi vệ sinh những khu vực có diện tích rộng.",
       "Chỉ cần làm ẩm mút bằng nước là có thể sử dụng để làm sạch, hạn chế việc phải sử dụng nhiều chất tẩy rửa.",
-      "Ứng dụng linh hoạt, sử dụng trên nhiều bề mặt"
+      "Ổ cắm chịu được điện áp lớn và thân thiện với môi trường"
     ]
   }
 ]

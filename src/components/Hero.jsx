@@ -45,7 +45,7 @@ export default function Hero() {
             </h1>
 
             <p className="max-w-2xl mx-auto lg:mx-0 text-base sm:text-lg text-gray-500 leading-relaxed">
-            Dosel là thương hiệu ổ điện đến từ Hàn Quốc, được đánh giá cao nhờ chất lượng hoàn thiện, độ bền và tính an toàn trong quá trình sử dụng. Sản phẩm được thiết kế để đáp ứng nhu cầu sử dụng liên tục, phù hợp cho nhà máy, văn phòng, công trình và các ứng dụng công nghiệp.
+            Mút xốp Melamine là sản phẩm hỗ trợ làm sạch các vết bẩn trên nhiều bề mặt phù hợp, giúp loại bỏ vết bẩn nhanh chóng và thuận tiện. Với thiết kế linh hoạt, dễ cắt theo nhu cầu sử dụng, sản phẩm phù hợp cho gia đình, văn phòng, nhà máy, khu công nghiệp và các khu vực cần vệ sinh thường xuyên.
             </p>
 
             {/* Các nút hành động chính */}
